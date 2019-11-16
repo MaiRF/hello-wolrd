@@ -3,6 +3,7 @@
 #include <string>
 #include <stdlib.h>
 
+using namespace std;
 
 class Cube
 {
@@ -24,10 +25,10 @@ public:
 	// 设置立方体的长
 	void setLong(double l);
 
-	// 设置立方体的长 
+	// 设置立方体的宽
 	void setWide(double w);
 
-	// 设置立方体的长 
+	// 设置立方体的高 
 	void setHigh(double h);
 
 	// 设置立方体的长宽高
@@ -47,5 +48,15 @@ public:
 
 	// 获取立方体的面积
 	double getArea();
+
+	// 输出立方体长宽高
+	void showLWH();
+
+	// 输出立方体体积
+	void showVolume();
+	
+	// 输出立方体面积
+	void showArea();
+
 
 };
