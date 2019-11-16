@@ -4,7 +4,7 @@
 int main()
 {
 
-
+	// ²âÊÔ£º
 	Cube * c1 = new Cube(10, 20, 30);
 
 	c1->setLWH(20, 1, 2);
