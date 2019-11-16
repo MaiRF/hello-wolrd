@@ -1,3 +1,2 @@
 ﻿  Main.cpp
-D:\Project\VisualStudio\C_PlusPlus\Circle-EncapsulatingInstances-02\Circle.h(23,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
-D:\Project\VisualStudio\C_PlusPlus\Circle-EncapsulatingInstances-02\Circle.h(23,29): warning C4183: “Circle”: 缺少返回类型；假定为返回“int”的成员函数
+  Circle-EncapsulatingInstances-02.vcxproj -> D:\Project\VisualStudio\C_PlusPlus\Circle-EncapsulatingInstances-02\Debug\Circle-EncapsulatingInstances-02.exe
