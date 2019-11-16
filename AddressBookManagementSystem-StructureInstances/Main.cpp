@@ -4,7 +4,7 @@
 int main()
 {
 
-
+	int a = 0;
 	AddressBook book_1;
 	AddressBook * pBook_1 = &book_1;
 	
